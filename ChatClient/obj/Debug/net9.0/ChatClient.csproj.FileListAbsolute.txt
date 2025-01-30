@@ -1,0 +1,14 @@
+/Users/amaan/ChatCLI/ChatClient/bin/Debug/net9.0/ChatClient
+/Users/amaan/ChatCLI/ChatClient/bin/Debug/net9.0/ChatClient.deps.json
+/Users/amaan/ChatCLI/ChatClient/bin/Debug/net9.0/ChatClient.runtimeconfig.json
+/Users/amaan/ChatCLI/ChatClient/bin/Debug/net9.0/ChatClient.dll
+/Users/amaan/ChatCLI/ChatClient/bin/Debug/net9.0/ChatClient.pdb
+/Users/amaan/ChatCLI/ChatClient/obj/Debug/net9.0/ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amaan/ChatCLI/ChatClient/obj/Debug/net9.0/ChatClient.AssemblyInfoInputs.cache
+/Users/amaan/ChatCLI/ChatClient/obj/Debug/net9.0/ChatClient.AssemblyInfo.cs
+/Users/amaan/ChatCLI/ChatClient/obj/Debug/net9.0/ChatClient.csproj.CoreCompileInputs.cache
+/Users/amaan/ChatCLI/ChatClient/obj/Debug/net9.0/ChatClient.dll
+/Users/amaan/ChatCLI/ChatClient/obj/Debug/net9.0/refint/ChatClient.dll
+/Users/amaan/ChatCLI/ChatClient/obj/Debug/net9.0/ChatClient.pdb
+/Users/amaan/ChatCLI/ChatClient/obj/Debug/net9.0/ChatClient.genruntimeconfig.cache
+/Users/amaan/ChatCLI/ChatClient/obj/Debug/net9.0/ref/ChatClient.dll
